@@ -1,0 +1,8 @@
+= First step in moving away from free
+
+While free.fr hosting is really free (as in beer), it also has its quirks
+- can only be edited from a french IP
+- slow serving of large PDF documents
+
+So, in the fuure, I'll try to keep my web content on this blog or on my ZHAW user page.
+
