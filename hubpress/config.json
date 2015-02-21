@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "jmuredubois",
-    "repositoryName": "jmuredubois.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"jmuredubois","repositoryName":"jmuredubois.github.io","branch":"master"},"site":{"title":"James' blog","description":"Not much yet ;)","url":"http://jmuredubois.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://jmuredubois.github.io/themes/Casper"}}
